@@ -1,0 +1,5 @@
+*.pyc
+*.pyo
+target
+coverage.xml
+nosetests.xml
